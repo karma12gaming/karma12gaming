@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi
+I'm Karma. Just a tinkerer. Not a programmer / dev. She / Her
 
-<!--
-**karma12gaming/karma12gaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Loves
+- Coding
+- Tech / PCs
+- Gaming
+- Retro Stuff
+- Digital Art 
+- Japan
 
-Here are some ideas to get you started:
+# Learning
+- Blender
+- Unity 
+- VRoid Studio
+- Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skills / Languages
+- HTML & CSS
+- Jekyll (Github)
+- Markdown
+- Photoshop 
