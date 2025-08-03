@@ -1,5 +1,5 @@
 # Hi 
-I'm Karma. Just a tinkerer. Not a programmer / dev. She / Her
+I'm Karma. Just a tinkerer. Not really a programmer / dev. She / Her
 
 # Loves 💙
 - Coding
@@ -12,15 +12,21 @@ I'm Karma. Just a tinkerer. Not a programmer / dev. She / Her
 
 # Learning 📚
 - Blender
-- ~~Unity~~ Godot / GDScript
+- ~~Unity~~
+- Godot / GDScript
 - VRoid Studio
 - Aseprite
-- C++ (Maybe)
 
 # Skills / Languages ✏️
 - HTML & CSS
 - Jekyll (Github)
 - Markdown
-- Photoshop 
+- Photoshop
+- BBCode
 
+# Other
+- **IDE**: VSCodium
+- **Theme**: Monokai Pro Dark
+- **Fav gaming platforms**: PC, PS1, PS2.
+  
 Profile Pic from https://picrew.me/
