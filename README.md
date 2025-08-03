@@ -12,9 +12,10 @@ I'm Karma. Just a tinkerer. Not a programmer / dev. She / Her
 
 # Learning 📚
 - Blender
-- Unity 
+- ~~Unity~~ Godot / GDScript
 - VRoid Studio
-- Java
+- Aseprite
+- C++ (Maybe)
 
 # Skills / Languages ✏️
 - HTML & CSS
